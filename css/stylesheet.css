@@ -1,0 +1,94 @@
+	p {
+		text-align: centr;
+		font-size: 12px;
+	}
+	#kla {
+		display: grid;
+		grid-template-columns: 13% 45% 29% 13%;
+		grid-template-rows: 15%px 100px 60%px 6px;
+	}
+	.grid-item1 {
+		background-color: white;
+	}
+	.grid-item2 {
+		background-color: gainsboro;
+	}
+	.grid-item3 {
+		background-color: white;
+		 grid-column: 2 / 4;
+	}
+	h1 {
+		text-align: left;
+		color: white;
+		font-size: 15px;
+	}
+	header {
+		background-color: #800000;
+		height: 20px;
+	}
+	footer {
+		background-color: #A80000;
+		height: 55px;
+	}
+	.f {
+		background-color: #700000;
+		height: 10px;
+	}
+
+
+
+#active {
+	font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 108px;
+  background-color: #660203;
+  font-family: inherit;
+  margin: 0;
+}
+#aa {
+	text-align: center;
+	font-size: 10px;
+}
+.w {
+	font-size: 10px;
+}
+ 
+.Link {
+	font-size: 12px;
+}
+.Bilder {
+	background-color: #3D85F4;
+	width: 95%;
+	box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.2), 0 5px 15px 0 rgba(0, 0, 0, 0.19);
+	margin: auto;
+}
+.slide {
+	margin: left;
+	width: 100%;
+}
+.mySlides w3-animate-fading {
+	margin: auto;
+	width: 70%;
+}
+.KK {
+	float: right;
+	width: 70%;
+}
+ul {
+	color: white;
+}
+p {
+	font-size: 10px;
+}
+#meldung	{
+	background-color: red;
+	box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.2), 0 5px 15px 0 rgba(0, 0, 0, 0.19);
+	border: thin;
+		
+}
+.distance  {
+	width: 95%;
+	margin: auto;
+}
